@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class EvenOrOddChecker{
+ public class EvenOddChecker {
 
     public static int getIntegerInput() {
         Scanner scanner = new Scanner(System.in);
